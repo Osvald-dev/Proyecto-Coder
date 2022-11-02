@@ -1,0 +1,48 @@
+[
+   {
+      "timestamp": "1/11/2022 13:39:29",
+      "products": [
+         {
+            "title": "Pepa pigg ",
+            "description": "Sedas de la cerdita",
+            "code": "MSaf",
+            "thumbnail": "chicas.jpg",
+            "price": 1002,
+            "stock": 403,
+            "timestamp": "31/10/2022 18:12:27",
+            "id": 2
+         },
+         {
+            "title": "ALCACHOFA ",
+            "description": "botella de 10",
+            "code": "MSaf",
+            "thumbnail": "coca.jpg",
+            "price": 1002,
+            "stock": 4,
+            "timestamp": "31/10/2022 18:12:26",
+            "id": 1
+         }
+      ],
+      "id": 3
+   },
+   {
+      "timestamp": "1/11/2022 17:49:41",
+      "products": [],
+      "id": 5
+   },
+   {
+      "timestamp": "1/11/2022 18:31:45",
+      "products": [],
+      "id": 8
+   },
+   {
+      "timestamp": "1/11/2022 18:31:46",
+      "products": [],
+      "id": 9
+   },
+   {
+      "timestamp": "1/11/2022 18:31:47",
+      "products": [],
+      "id": 10
+   }
+]

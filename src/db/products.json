@@ -1,0 +1,82 @@
+[
+   {
+      "title": "ALCACHOFA ",
+      "description": "botella de 10",
+      "code": "MSaf",
+      "thumbnail": "coca.jpg",
+      "price": 1002,
+      "stock": 4,
+      "timestamp": "31/10/2022 18:12:26",
+      "id": 1
+   },
+   {
+      "title": "Pepa pigg ",
+      "description": "Sedas de la cerdita",
+      "code": "MSaf",
+      "thumbnail": "chicas.jpg",
+      "price": 1002,
+      "stock": 403,
+      "timestamp": "31/10/2022 18:12:27",
+      "id": 2
+   },
+   {
+      "title": "Pepa pigg ",
+      "description": "Sedas de la cerdita",
+      "code": "MSaf",
+      "thumbnail": "chicas.jpg",
+      "price": 1002,
+      "stock": 403,
+      "timestamp": "31/10/2022 18:12:28",
+      "id": 3
+   },
+   {
+      "title": "Pepa pigg ",
+      "description": "Sedas de la cerdita",
+      "code": "MSaf",
+      "thumbnail": "chicas.jpg",
+      "price": 1002,
+      "stock": 403,
+      "timestamp": "31/10/2022 18:12:30",
+      "id": 4
+   },
+   {
+      "title": "Pepa pigg ",
+      "description": "Sedas de la cerdita",
+      "code": "MSaf",
+      "thumbnail": "chicas.jpg",
+      "price": 1002,
+      "stock": 403,
+      "timestamp": "31/10/2022 18:12:32",
+      "id": 5
+   },
+   {
+      "title": "ARROZ",
+      "description": "arroz en lata",
+      "code": "chino",
+      "thumbnail": "cchinos.jpg",
+      "price": 999,
+      "stock": 1,
+      "timestamp": "1/11/2022 17:33:25",
+      "id": 6
+   },
+   {
+      "title": "ARROZ",
+      "description": "arroz en lata",
+      "code": "chino",
+      "thumbnail": "cchinos.jpg",
+      "price": 999,
+      "stock": 10,
+      "timestamp": "1/11/2022 17:33:58",
+      "id": 7
+   },
+   {
+      "title": "PEPSI",
+      "description": "arroz en lata",
+      "code": "chino",
+      "thumbnail": "pepsi.jpg",
+      "price": 999,
+      "stock": 100,
+      "timestamp": "1/11/2022 17:40:54",
+      "id": 8
+   }
+]
